@@ -15,3 +15,8 @@ Mac -> Command + E.
 Notes are stored and sync across the chrome browser where the user logged into. 
 
 This is truly an open source application built to enhance the productivity. Your notes is saved in chrome storage and not sent anywhere outside the browser.
+
+
+Chrome store link:
+
+https://chrome.google.com/webstore/detail/todos-highlight-text-to-n/dmegmkgoomfkgenipfodoeblfjnhpjok?hl=env
