@@ -15,4 +15,4 @@ https://chrome.google.com/webstore/detail/todos-highlight-text-to-n/dmegmkgoomfk
 
 [Watch Demo](https://www.youtube.com/watch?v=ETNHTKstRQM)
 
-![Todos](https://github.com/mahesh-saravana/Todos/tree/master/static/img/todos.png)
+![Todos](https://github.com/mahesh-saravana/blobstore/blob/master/images/todos.png)
