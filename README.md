@@ -1,4 +1,4 @@
-#Todos
+# Todos
 
   Todos is a chrome extension to write down to-do notes very effectively. Highlight a text in any of the webpage and use the shortcut keys to add the text to the to-do list. Browser new tab is replaced with the to-do list so that it reminds the tasks whenever a new tab is opened. List can be edited manually as well. 
 
